@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "NoiseRecorder",
+        "repositoryURL": "https://github.com/OlegPoliukhovych/NoiseRecorder.git",
+        "state": {
+          "branch": null,
+          "revision": "40d222f8e78098a4f22581f0236a4c3021e2ea14",
+          "version": "1.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
